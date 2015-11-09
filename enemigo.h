@@ -8,6 +8,8 @@
 #ifndef ENEMIGO_H
 #define	ENEMIGO_H
 
+#define N 100
+
 typedef struct enemigo{
     char *nombre;
     int ataque;
